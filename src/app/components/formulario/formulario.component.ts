@@ -7,7 +7,7 @@ import { NgForm } from '@angular/forms';
   styleUrls: ['./formulario.component.scss']
 })
 export class FormularioComponent implements OnInit {
-  //Objeto
+  // Objeto
   public object: any = {};
 
   public ingresando: boolean;
